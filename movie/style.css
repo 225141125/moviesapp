@@ -16,6 +16,11 @@ header {
     justify-content: flex-end;
     padding: 1rem;
 }
+header h1{
+       text-align: center;
+    color: whitesmoke;
+
+}
 
 .search {
     background-color: transparent;
